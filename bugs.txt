@@ -1,0 +1,5 @@
+In the index.html on line 4,the link should be for style.css and not styles.css to match the file's name.
+In style css in the dark class,color:whit; should be color:white; This is a typo.
+In script.js file the function toggleTheme should have a paranthesis before the curly brackets in order to work.
+In script.js file the constant variable button in the document.getElementById('toggle') it should be like that because there is no ID named toogl.
+In script.js file on line 2, the querySelector should have body between parantheses and not bod beacuse there is no such element named bod.
